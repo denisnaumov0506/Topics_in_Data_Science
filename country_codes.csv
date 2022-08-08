@@ -1,0 +1,252 @@
+id,names,slug
+1,Afghanistan,afghanistan
+2,Ägypten,agypten
+3,Albanien,albanien
+4,Algerien,algerien
+5,Andorra,andorra
+6,Angola,angola
+7,Antigua und Barbuda,antigua-und-barbuda
+8,Äquatorialguinea,aquatorialguinea
+9,Argentinien,argentinien
+10,Armenien,armenien
+11,Äthiopien,athiopien
+12,Australien,australien
+13,Aserbaidschan,aserbaidschan
+14,Bahamas,bahamas
+15,Bahrain,bahrain
+16,Bangladesch,bangladesch
+17,Barbados,barbados
+18,Belarus,belarus
+19,Belgien,belgien
+20,Belize,belize
+21,Benin,benin
+22,Bhutan,bhutan
+23,Bolivien,bolivien
+24,Bosnien-Herzegowina,bosnien-herzegowina
+25,Botsuana U20,botsuana-u20
+26,Brasilien,brasilien
+27,Brunei Darussalam,brunei-darussalam
+28,Bulgarien,bulgarien
+29,Burkina Faso,burkina-faso
+30,Burundi,burundi
+31,Kamerun,kamerun
+32,Kap Verde,kap-verde
+33,Chile,chile
+34,China,china
+35,Komoren,komoren
+36,Costa Rica,costa-rica
+37,Kroatien,kroatien
+38,Elfenbeinküste,elfenbeinkuste
+39,Dänemark,danemark
+40,Deutschland,deutschland
+41,Dschibuti,dschibuti
+42,Dominica,dominica
+43,Dominikanische Republik,dominikanische-republik
+44,Ecuador,ecuador
+45,El Salvador,el-salvador
+46,Eritrea,eritrea
+47,Estland,estland
+48,Fidschi,fidschi
+49,Finnland,finnland
+50,Frankreich,frankreich
+51,Gabun,gabun
+52,Gambia,gambia
+53,Georgien,georgien
+54,Ghana,ghana
+55,Grenada,grenada
+56,Griechenland,griechenland
+58,Guatemala,guatemala
+59,Guinea,guinea
+60,Guinea-Bissau,guinea-bissau
+61,Guyana,guyana
+62,Haiti,haiti
+66,Honduras,honduras
+67,Indien,indien
+68,Indonesien,indonesien
+69,Salomon-Inseln,salomon-inseln
+70,Irak,irak
+71,Iran,iran
+72,Irland,irland
+73,Island,island
+74,Israel,israel
+75,Italien,italien
+76,Jamaika,jamaika
+77,Japan,japan
+78,Jordanien,jordanien
+79,Kambodscha,kambodscha
+80,Kanada,kanada
+81,Kasachstan,kasachstan
+82,Kenia,kenia
+83,Kolumbien,kolumbien
+85,Republik Kongo,republik-kongo
+86,Nordkorea,nordkorea
+87,Südkorea,sudkorea
+88,Kuba,kuba
+89,Kuwait,kuwait
+90,Kirgisistan,kirgisistan
+91,Laos,laos
+92,Lettland,lettland
+93,Lesotho,lesotho
+94,Libanon,libanon
+95,Liberia,liberia
+96,Libyen,libyen
+97,Liechtenstein,liechtenstein
+98,Litauen,litauen
+99,Luxemburg,luxemburg
+100,Nordmazedonien,nordmazedonien
+101,Madagaskar,madagaskar
+102,Malawi,malawi
+103,Malaysia,malaysia
+104,Malediven,malediven
+105,Mali,mali
+106,Malta,malta
+107,Marokko,marokko
+108,Mauretanien,mauretanien
+109,Mauritius,mauritius
+110,Mexiko U19,mexiko-u19
+111,Mikronesien,mikronesien
+112,Moldova U20,moldova-u20
+113,Monaco,monaco
+114,Mongolei,mongolei
+115,Mosambik,mosambik
+116,Myanmar,myanmar
+117,Namibia,namibia
+118,Nauru,nauru
+119,Nepal,nepal
+120,Neuseeland,neuseeland
+121,Nicaragua,nicaragua
+122,Niederlande,niederlande
+123,Niger,niger
+124,Nigeria,nigeria
+125,Norwegen,norwegen
+126,Oman,oman
+127,Österreich,osterreich
+128,Pakistan,pakistan
+129,Palau,palau
+130,Panama,panama
+131,Papua-Neuguinea,papua-neuguinea
+132,Paraguay,paraguay
+133,Peru,peru
+134,Philippinen,philippinen
+135,Polen,polen
+136,Portugal U23,portugal-u23
+137,Katar,katar
+138,Zentralafrikanische Republik,zentralafrikanische-republik
+139,Ruanda,ruanda
+140,Rumänien,rumanien
+141,Russland,russland
+142,Sambia,sambia
+143,Samoa,samoa
+144,San Marino,san-marino
+145,São Tomé und Príncipe,sao-tome-und-principe
+146,Saudi-Arabien,saudi-arabien
+147,Schweden,schweden
+148,Schweiz,schweiz
+149,Senegal,senegal
+150,Serbien und Montenegro,serbien-und-montenegro
+151,Seychellen,seychellen
+152,Sierra Leone,sierra-leone
+153,Singapur,singapur
+154,Slowakei,slowakei
+155,Slowenien,slowenien
+156,Somalia,somalia
+157,Spanien,spanien
+158,Sri Lanka,sri-lanka
+159,Südafrika,sudafrika
+160,Sudan,sudan
+161,Suriname,suriname
+162,Eswatini,eswatini
+163,Syrien,syrien
+164,Chinesisch Taipeh (Taiwan),chinesisch-taipeh-taiwan-
+165,Tadschikistan,tadschikistan
+166,Tansania,tansania
+167,Thailand,thailand
+168,Togo,togo
+169,Tonga,tonga
+170,Trinidad und Tobago,trinidad-und-tobago
+171,Tschad,tschad
+172,Tschechien,tschechien
+173,Tunesien,tunesien
+174,Türkei,turkei
+175,Turkmenistan,turkmenistan
+176,Uganda,uganda
+177,Ukraine,ukraine
+178,Ungarn,ungarn
+179,Uruguay,uruguay
+180,Usbekistan,usbekistan
+181,Vanuatu,vanuatu
+182,Venezuela,venezuela
+183,Vereinigte Arabische Emirate,vereinigte-arabische-emirate
+184,Vereinigte Staaten,vereinigte-staaten
+185,Vietnam,vietnam
+186,Jemen,jemen
+187,Rhodesien,rhodesien
+188,Zypern,zypern
+189,England,england
+190,Schottland,schottland
+191,Wales,wales
+192,Nordirland,nordirland
+193,Demokratische Republik Kongo,demokratische-republik-kongo
+207,Martinique,martinique
+208,Färöer,faroer
+211,Bermuda,bermuda
+215,Serbien,serbien
+216,Montenegro,montenegro
+218,Hongkong,hongkong
+219,Macau,macau
+220,Tschechoslowakei,tschechoslowakei
+221,Sowjetunion (-1991),sowjetunion-1991-
+222,Deutsche Demokratische Republik,deutsche-demokratische-republik
+223,Jugoslawien,jugoslawien
+224,St. Vincent und die Grenadinen,st-vincent-und-die-grenadinen
+225,St. Kitts und Nevis,st-kitts-und-nevis
+226,Turks- und Caicosinseln,turks-und-caicosinseln
+227,Niederländische Antillen,niederlandische-antillen
+228,Puerto Rico,puerto-rico
+229,Cayman-Inseln,cayman-inseln
+230,St. Lucia,st-lucia
+231,Britische Jungferninseln,britische-jungferninseln
+232,Anguilla,anguilla
+233,Aruba,aruba
+234,Amerikanische Jungferninseln,amerikanische-jungferninseln
+235,Montserrat,montserrat
+236,Neukaledonien,neukaledonien
+237,Tahiti,tahiti
+238,Cookinseln,cookinseln
+239,Amerikanisch-Samoa,amerikanisch-samoa
+240,Palästina,palastina
+241,Guam,guam
+242,Timor-Leste,timor-leste
+243,Grönland,gronland
+244,Kosovo,kosovo
+245,NaN,NaN
+246,Kiribati,kiribati
+247,Tuvalu,tuvalu
+248,Weihnachtsinsel,weihnachtsinsel
+249,Réunion,reunion
+250,NaN,NaN
+251,Guadeloupe,guadeloupe
+252,Französisch-Guayana,franzosisch-guayana
+253,Sansibar,sansibar
+254,Zaire,zaire
+255,Niederländisch-Ostindien,niederlandisch-ostindien
+256,NaN,NaN
+257,Marshallinseln,marshallinseln
+258,NaN,NaN
+259,NaN,NaN
+260,Curaçao,curacao
+261,Niue,niue
+262,Südsudan,sudsudan
+263,Saarland,saarland
+264,Großbritannien,grossbritannien
+265,Sint Maarten,sint-maarten
+266,Gibraltar,gibraltar
+267,Saint-Martin,saint-martin
+268,Nördliche Marianen,nordliche-marianen
+269,Bonaire,bonaire
+270,NaN,NaN
+271,NaN,NaN
+272,NaN,NaN
+273,NaN,NaN
+274,NaN,NaN
+275,NaN,NaN
